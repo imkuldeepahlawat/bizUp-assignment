@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.stateName {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.state {
+  gap: 50px;
+  
+  align-items: center;
+  font-size: larger;
+  display: flex;
+}
