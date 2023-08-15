@@ -45,7 +45,7 @@ int main()
     // sort the array so highest frequency will be on top, that can be also don ewith heap but im using compare function
     sort(sortedWords.begin(), sortedWords.end(), cmpForSort);
 
-    cout << "Top " << 10 << " Frequency Words From All Files" << endl;
+    cout << "Frequency of Top " << 10 << " Words From All Files" << endl;
     for (int i = 0; i < 10; i++)
     {
         cout << sortedWords[i].first << " => "
@@ -56,7 +56,7 @@ int main()
     for (int i = 1; i <= 10; ++i)
     {
         // now doing all previous oprations for every file and pring 10  words for each
-        cout << "Top " << 10 << " Frequency Words in file" << i << ".txt:" << endl;
+        cout << "Frequency of Top " << 10 << " Words in file" << i << ".txt:" << endl;
         map<string, int> filefreqOfWords;
         string filename = "file" + to_string(i) + ".txt";
         ifstream file(filename);
