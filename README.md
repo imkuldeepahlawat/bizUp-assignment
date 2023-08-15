@@ -11,11 +11,14 @@ Given 10 random text files - write the code, in any programming language to - re
 
 [Answer](https://github.com/matiassingers/awesome-readme)
 
+
 ### Problem 2
-Given an app created with react / react-native - for a functional component - write the code to print the previous and current state for a state variable.
+Given an app created with react / react-native - for a functional component - write the code to print the previous and current state for a state variable. [Solved](https://github.com/imkuldeepahlawat/bizUp-assignment/tree/main/Problems/problem2)
 
 
-[Answer](https://github.com/matiassingers/awesome-readme)
+[Code](https://github.com/imkuldeepahlawat/bizUp-assignment/blob/main/Problems/problem2/src/App.js)
+
+[UI](https://github.com/imkuldeepahlawat/bizUp-assignment/tree/main/Problems/problem2#readme)
 
 ### Problem 3
 Consider a hypothetical database for an e-commerce platform with the following simplified schema:
@@ -29,5 +32,5 @@ Write a SQL query to find the top 5 customers who have made the highest number o
 Please provide the SQL query that satisfies the above requirements.
 
 
-[Aanswer](https://github.com/matiassingers/awesome-readme)
+[Aanswer](https://github.com/imkuldeepahlawat/bizUp-assignment)
 
