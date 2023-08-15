@@ -9,7 +9,7 @@
 ### Problem 1
 Given 10 random text files - write the code, in any programming language to - read the files from local drive and show the top 10 words having the highest frequency for each file. Also, print the overall top 10 words with highest frequency. [Solved](https://github.com/imkuldeepahlawat/bizUp-assignment/tree/main/Problems/problem1)✅
 
-[Code](https://github.com/imkuldeepahlawat/bizUp-assignment/tree/main/Problems/problem1)
+[Code](https://github.com/imkuldeepahlawat/bizUp-assignment/blob/main/Problems/problem1/solve.cpp)
 
 
 ### Problem 2
