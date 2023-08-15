@@ -12,11 +12,10 @@ bool cmpForEraseAlphaNum(char c)
 }
 int main()
 {
-    const int numFiles = 10;
-    const int topWords = 10;
+    
     map<string, int> freqOfWords;
 
-    for (int i = 1; i <= numFiles; ++i)
+    for (int i = 1; i <= 10; ++i)
     {
         // creating fileName => file1.txt
         string filename = "file" + to_string(i) + ".txt";
